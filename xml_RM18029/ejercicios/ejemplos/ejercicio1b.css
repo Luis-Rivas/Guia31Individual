@@ -1,0 +1,5 @@
+/* ejercicio1b.css   RM18029  */
+fichero {background-color:cornflowerblue;}
+ficha {background-color:gray; display:block;} nombre {color:white; display:inline;} apellido {color:yellow; display:inline;}
+direccion {color:yellow;font-size:1cm; display:none;} dui {color:blueviolet;font-size: 1cm;display: block;} afp{color:brown;font-size: 1cm;display: inline;}
+isss{color:brown;font-size: 2cm;display: inline;}

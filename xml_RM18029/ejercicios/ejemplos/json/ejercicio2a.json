@@ -1,0 +1,25 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"@codigoArea":"503",
+		"@moneda":"Dolar",
+		"@idioma":"Español",
+		"@AreaTerritorial":"22000 km2",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"La Paz",
+				"cabecera":"Zacatecoluca",
+				"habitantes":"800000",
+				"altura":"400 MSNM"
+			}
+		]
+	}
+}
